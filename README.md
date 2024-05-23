@@ -1,6 +1,8 @@
-Hello everybory! 👋
+👋 Hello everybory! 👋
 
 🌐My WebSite Portfolio → https://otaviopfalcao.com.br/
+
+🌐Share my GitHub → https://twti.xyz/gh/
 
 🤫My contact (WhatsApp) → https://twti.xyz/wa
 🤫My contact (Telegram) → https://twti.xyz/t
