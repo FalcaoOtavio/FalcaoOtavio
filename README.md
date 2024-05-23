@@ -1,16 +1,13 @@
-## Hi there 👋
+Hello everybory! 👋
 
-<!--
-**FalcaoOtavio/FalcaoOtavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐My WebSite Portfolio → https://otaviopfalcao.com.br/
 
-Here are some ideas to get you started:
+🤫My contact (WhatsApp) → https://twti.xyz/wa
+🤫My contact (Telegram) → https://twti.xyz/t
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=3800&pause=1000&random=false&width=435&lines=Bem+vindo+ao+meu+GitHub)](https://git.io/typing-svg)
+
+## 📊 Git Stats
+
+[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioeduardo4100&theme=react&show_icons=true&border_color=00ffff)](https://github.com/caioeduardo4100/github-readme-stats)
+[![Caio's GitHub programming language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caioeduardo4100&theme=react&layout=compact&border_color=00ffff)](https://github.com/caioeduardo4100/github-readme-stats)
