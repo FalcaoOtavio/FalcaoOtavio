@@ -9,5 +9,5 @@ Hello everybory! 👋
 
 ## 📊 Git Stats
 
-[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioeduardo4100&theme=react&show_icons=true&border_color=00ffff)](https://github.com/caioeduardo4100/github-readme-stats)
-[![Caio's GitHub programming language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caioeduardo4100&theme=react&layout=compact&border_color=00ffff)](https://github.com/caioeduardo4100/github-readme-stats)
+[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioeduardo4100&theme=react&show_icons=true&border_color=00ffff)](https://github.com/FalcaoOtavio/github-readme-stats)
+[![Caio's GitHub programming language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caioeduardo4100&theme=react&layout=compact&border_color=00ffff)](https://github.com/FalcaoOtavio/github-readme-stats)
