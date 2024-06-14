@@ -2,10 +2,10 @@
 
 🌐My WebSite Portfolio → https://otaviopfalcao.com.br/
 
-🌐Share my GitHub → https://twti.xyz/gh/
+🌐Share my GitHub → https://c,twti.xyz/gh/
 
-🤫My contact (WhatsApp) → https://twti.xyz/wa
-🤫My contact (Telegram) → https://twti.xyz/t
+🤫My contact (WhatsApp) → https://c.twti.xyz/wa
+🤫My contact (Telegram) → https://c.twti.xyz/t
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=3800&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
